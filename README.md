@@ -2,7 +2,7 @@
 
 ## Directly Run (Command Line)
 1. Download this repository and extract the file
-2. Download this folder and copy to the repository folder
+2. Download this file(model.h5) and copy to the model folder
         https://drive.google.com/drive/folders/1r1zDgLMC1MVYgqRwEzb3vTyeLnEilx9G?usp=sharing
         
 3. Write fallowing commands on terminal
