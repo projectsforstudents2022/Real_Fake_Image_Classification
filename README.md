@@ -2,13 +2,16 @@
 
 ## Directly Run (Command Line)
 1. Download this repository and extract the file
-2. Write fallowing commands on terminal
+2. Download this folder and copy to the repository folder
+        https://drive.google.com/drive/folders/1r1zDgLMC1MVYgqRwEzb3vTyeLnEilx9G?usp=sharing
+        
+3. Write fallowing commands on terminal
 ```javascript
     python3 manage.py makemigrations
     python3 manage.py migrate
     python3 manage.py runserver
 ``` 
-3. Click on the given url and open on browser
+4. Click on the given url and open on browser
 
 
 ## How to run (Google Collab)
