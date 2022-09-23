@@ -7,7 +7,6 @@
     python3 manage.py makemigrations
     python3 manage.py migrate
     python3 manage.py runserver
-    drive.mount('/content/drive')
 ``` 
 3. Click on the given url and open on browser
 
